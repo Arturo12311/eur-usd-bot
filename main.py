@@ -6,8 +6,8 @@ from threading import Thread
 
 # === CONFIGURATION ===
 symbol = "eurusd"
-high_price = 1.0800
-low_price = 1.0600
+high_price = 1.1250
+low_price = 1.1070
 
 USE_DISCORD = True
 DISCORD_WEBHOOK_URL = "https://discordapp.com/api/webhooks/1371951555204481064/P1b-VuB-OhrERfKQmQDf0BGjQURl9dlosuGiMEOcWp8RxuXCytLvkZuJXdeCqGA0sJQ-"
