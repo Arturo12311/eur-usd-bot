@@ -12,7 +12,7 @@ low_price = 1.1070
 USE_DISCORD = True
 DISCORD_WEBHOOK_URL = "https://discordapp.com/api/webhooks/1371951555204481064/P1b-VuB-OhrERfKQmQDf0BGjQURl9dlosuGiMEOcWp8RxuXCytLvkZuJXdeCqGA0sJQ-"
 
-DELAYED_SEND = False  # ⬅️ Set to True for 24hr delayed notification
+DELAYED_SEND = True  # ⬅️ Set to True for 24hr delayed notification
 
 alerted = False
 
